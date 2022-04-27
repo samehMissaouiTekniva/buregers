@@ -1,7 +1,7 @@
-steak 
+steak bio
 
-cheese 
-oignons 
-cornichons 
-ketchup 
-moutarde 
+cheese bio
+oignons bio
+cornichons bio
+ketchup bio
+moutarde bio
